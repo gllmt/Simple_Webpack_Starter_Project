@@ -1,5 +1,7 @@
 # Simple Webpack starter project
 
+> scss > css  and  Live reload !
+
 > Include : jquery, imagesloaded, gsap, scrollmagic and smooth-scrolling !!! 
 
 ## Install
